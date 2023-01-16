@@ -1,0 +1,18 @@
+{
+    "name": "symmetric-mappings",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "license": "MIT",
+    "author": {
+        "name": "Topaz Bar",
+        "email": "topaz1008@gmail.com"
+    },
+    "keywords": [],
+    "dependencies": {
+        "complex.js": "^2.1.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 0"
+    }
+}
